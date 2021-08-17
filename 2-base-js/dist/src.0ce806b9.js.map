@@ -1,0 +1,1 @@
+{"version":3,"sources":["src/App.js","src/index.js"],"names":["alert"],"mappings":";AAAAA,MAAM;;ACAN,aAAA,QAAA","file":"src.0ce806b9.js","sourceRoot":"..","sourcesContent":["alert(\"Hola desde Javascript\");","import './App';\n"]}
